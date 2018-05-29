@@ -24,6 +24,6 @@ $ ./install.sh
 
 ```bash
 $ sl
-$ sl-l
-$ sl-h
+$ sl -l
+$ sl -h
 ```
