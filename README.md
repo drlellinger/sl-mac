@@ -17,6 +17,7 @@ $ git clone https://github.com/drlellinger/sl-mac
 ```bash
 $ cd sl-mac
 $ sudo chmod +x install.sh
+$ ./install.sh
 ```
 
 ## Usage
